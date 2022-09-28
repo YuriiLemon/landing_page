@@ -3,6 +3,7 @@
     
     .background {
         background-image: url(secbc.png);
+        background-size: cover;
     }
     
     .top_of_menu {
