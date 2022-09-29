@@ -43,6 +43,8 @@
         font-family: 'Space Mono', monospace;
         text-align: justify;
         padding: 10px;
+        display: flex;
+        flex-direction: row;
     }
 
     .smallerImage {
