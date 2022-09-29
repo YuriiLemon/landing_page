@@ -5,6 +5,10 @@
         background-color: #FFF8DC;
     }
     
+    .background_img {
+        background-image: url("secbc.png");
+    }
+
     .top_of_menu {
         color: black;
         font-size: 32px;
