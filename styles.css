@@ -41,7 +41,7 @@
     .bottom_of_menu {
         color: black;
         font-family: 'Space Mono', monospace;
-        text-align: justify;
+        text-align: end;
         padding: 10px;
         display: flex;
         flex-direction: row;
