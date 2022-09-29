@@ -32,8 +32,7 @@
     .blocksALL {
         color: black;
         font-family: 'Space Mono', monospace;
-        font-size: 32px;
-        font-weight: 200;
+        
         text-align: justify;
 
         display: flex;
