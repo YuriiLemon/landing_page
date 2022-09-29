@@ -15,8 +15,8 @@
         font-family: 'Space Mono', monospace;
         text-align: justify;
         margin: 10px;
-        display: flex;
-        flex-direction: row;
+        display: grid;
+        grid-row: auto;
     }
 
     .game_names {
@@ -24,7 +24,7 @@
         white-space: nowrap;
         text-align: center;
         margin: 10px;
-        font-size: 32px;
+        font-size: 16px;
         font-weight: 200;
     }
 
