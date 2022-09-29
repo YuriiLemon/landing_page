@@ -63,6 +63,8 @@
         border-radius: 5px;
         margin: 10px 5px;
         font-family: 'Space Mono', monospace;
+        justify-content: center;
+        text-align: center;
     }
    
     
