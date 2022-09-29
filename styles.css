@@ -45,6 +45,7 @@
         padding: 10px;
         display: flex;
         flex-direction: row;
+        margin-inline: 10px;
     }
 
     .smallerImage {
