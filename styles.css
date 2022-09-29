@@ -16,7 +16,7 @@
         text-align: justify;
         margin: 10px;
         display: grid;
-        grid-row: auto;
+        grid-row: start;
     }
 
     .game_names {
