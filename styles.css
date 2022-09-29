@@ -76,6 +76,15 @@
         text-align: center;
     }
 
+    .smallerImage2 {
+        width: 100px;     
+        height: 40px;
+        object-fit: cover;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
     .fullCard {
         width: 500px;
         height: 400px;
