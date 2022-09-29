@@ -78,7 +78,7 @@
 
     .smallerImage2 {
         width: 100px;     
-        height: 40px;
+        height: auto;
         object-fit: cover;
         display: flex;
         justify-content: center;
